@@ -1,5 +1,3 @@
-# Cryptography
-
 ## Audio Cryptogrpahy Using LA concepts
 
 This project aims to develop a robust technique for encoding and decoding audio signals in a manner that securely conceals sensitive information within the audio using linear algebraic concepts such as orthogonal projection, rotation, inversion, and QR decomposition. Additionally, this project incorporates strong encryption techniques, including wrap key encryption.
